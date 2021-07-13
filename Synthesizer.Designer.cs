@@ -31,7 +31,7 @@ namespace Synthesizer
         {
             this.oscillator1 = new Oscillator();
             this.oscillator2 = new Oscillator();
-            this.oscillator3 = new Oscillator ();
+            this.oscillator3 = new Oscillator();
             this.SuspendLayout();
             // 
             // oscillator1
@@ -41,7 +41,7 @@ namespace Synthesizer
             this.oscillator1.Size = new System.Drawing.Size(459, 120);
             this.oscillator1.TabIndex = 0;
             this.oscillator1.TabStop = false;
-            this.oscillator1.Text = "Oschillator 1";
+            this.oscillator1.Text = "Oscillator 1";
             // 
             // oscillator2
             // 
