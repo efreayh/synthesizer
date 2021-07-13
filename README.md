@@ -6,5 +6,8 @@ This project is a simple synthesizer made using C#. It consists of 3 oscillators
 
 ![alt text](Screenshots/screenshot1.png "Screenshot 1")
 
-## Download
+## Installation
 
+You can download the synthesizer for Windows by clicking [here]. To install it, unzip the file and run the setup wizard. 
+
+[here]: https://github.com/efreayh/synthesizer/releases/download/1.0/synthesizer.zip
